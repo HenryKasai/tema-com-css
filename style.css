@@ -14,6 +14,7 @@ h1.titulo {
     font-family: 'Caveat';
     font-weight: 700;
     font-size: 48px;
+    margin-bottom: 50px;
 }
 
 p.frase {
@@ -25,4 +26,5 @@ p.autor {
     font-family: 'Dancing Script';
     font-weight: 700;
     font-size: 24px;
+    margin-top: 50px;
 }
